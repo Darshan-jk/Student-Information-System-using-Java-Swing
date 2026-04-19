@@ -32,7 +32,6 @@ Student-Portal/
 │── LoginPage.java
 │── SignupPage.java
 │── Dashboard.java
-│── DBConnection.java (optional)
 │── README.md
 ```
 
