@@ -100,12 +100,24 @@ DriverManager.getConnection(
 
 ## 🖥️ Screenshots
 
-* Login Page
-  ![Log In Screenshot](Screenshot1.PNG)
-* Signup Page
-  ![Sign Up Screenshot](Screenshot2.PNG)
-* Dashboard with Profile Image
-  ![Dashboard Screenshot](Screenshot3.PNG)
+<p align="center">
+  <img src="ScreenShots/Screenshot1.PNG" alt="Log In Screenshot">
+  <br>
+  <strong>Login Page</strong>
+</p>
+
+<p align="center">
+  <img src="ScreenShots/Screenshot2.PNG" alt="Sign Up Screenshot">
+  <br>
+  <strong>Signup Page</strong>
+</p>
+
+<p align="center">
+  <img src="ScreenShots/Screenshot3.PNG" alt="Dashboard Screenshot">
+  <br>
+  <strong>Dashboard with Profile Image</strong>
+</p>
+
 
 ---
 
